@@ -1,0 +1,32 @@
+# Kodluyoruz ilk Repo
+
+Bu repo [Kodluyoruz](www.githup.com) Front-End Eğtiminde oluşturduğumu ilk repo, içerisinde bir ader README dosyası bir adet ,ndex.html barındırıyor
+
+# Installation
+
+Önceki projeyi clonlayın
+
+
+```
+Git clone
+https://github.com/furkankck100203/kodluyoruzilkrepo.git
+```
+
+# usage
+
+Projeyi clonladıktan sonra visual studio code programında açınız
+
+Limux için
+
+```
+
+cd kodluyoruzilrepo code .
+```
+
+#Contributing
+Pull requestler kabul edilir Büyük değişiklikler için lütfen önce neyi değiştirmek istediğiniz tartışmak için konu açınız
+# License
+
+[MIT](WWW.GİTHUP.COM)
+
+![prjemden resim](./projem.png)
